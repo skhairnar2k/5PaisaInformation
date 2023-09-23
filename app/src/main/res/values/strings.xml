@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Five Information</string>
+
+
+    <string name="brok">
+        5 Paisa Brokerage Charges are Flat 20 Rs. Per Executed Order.\n\n\n\n
+
+        This charges are only applicable if the transaction value is 800 Rs. or Above.\n\n\n\n
+
+        If the traded value is below 800 Rs. Brokerage will be 2.5% of Traded Value.\n\n\n\n
+
+        As per SEBI  guidelines, a broker can charge maximum 2.5% of the total turnover value.\n\n\n\n
+    </string>
+
+
+    <string name="pledge">
+        5 Paisa offers Pledging and UnPledging of Shares.\n\n
+
+        It means a Customer can pledge their stocks MF, ETF, Bonds, Debentures to broker in return of Collateral margin.\n\n
+
+        There are some charges for pledging and unpledging.\n\n
+
+        For Pledging the Charges are :- Rs. 12.50 + 18% GST.\n\n
+
+        For UnPledging the Charges are :- Rs. 12.50 + 18% GST.\n\n
+
+        TAT is 24 hrs, Ledger should be in credit,\n\n
+
+        No open position also request place between 8 AM to 4 PM, (Mon-Fri).
+    </string>
+
+    <string name="refer">
+        5 Paisa offers Refer and Earn Program.\n\n
+        It means if a customer is refering 5 Paisa account to his friend or family via his/her refer code.\n\n
+        He/She will get Rs. 200 Referral credit AND 12.5% Brokerage Sharing.\n\n
+        The Free Credit amount will be deposited into your Ledger (ad-hoc margin) within 72 hours.\n\n
+        You can use this amount to buy stocks of your choice.\n\n
+        However, please note that it will expire in 25 days if not utilized.\n\n
+        The Brokerage sharing amount will be credited to your ledger account within 7 to 10 days after the end of each month.\n\n
+        Please note that the referrer will be eligible for benefits only if the referee account is opened within 10 days from the referral date..\n\n
+    </string>
+
+    <string name="transfer">
+        Shares etc. held in demat form can be transferred from one person to another or from one demat account to another demat account freely except when they are under pledge, lock-in, etc.\n\n
+        Transfer charges of ₹12.50 per ISIN + 18% GST is applicable.\n\n
+        For share transfer, ledger should be in credit.\n\n
+        Only DP free units or quantities are allowed to transfer.\n\n
+        CDSL to CDSL can be transfer by online and offline process but CDSL to NSDL transfer can be done only through DIS booklet (offline).\n\n
+        The cut off time for online transfer is Mon – Fri 5:30 PM, post 5:30 PM request is rejected by DP.\n\n
+        The DP transaction charges are applicable Rs.12.50 + 18% GST.\n\n
+        Only activate ISIN can be transferred, delisted shares and lock-in MF units only transfer through close and transfer process.\n\n
+    </string>
+
+</resources>
